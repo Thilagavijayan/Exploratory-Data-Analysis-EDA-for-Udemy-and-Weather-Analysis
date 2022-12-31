@@ -1,8 +1,8 @@
 # Data-Analysis-with-python
 This is a project which helps to works on real Data using Python.
 ##Projects
- - [Udemy Exploration](https://github.com/Thilagavijayan/Data_Analysis_Projects/blob/main/Weather.ipynb)
- - [Weather Exploration](https://github.com/Thilagavijayan/Data_Analysis_Projects/blob/main/udemy_py.ipynb)
+ - [Udemy Exploration](https://github.com/Thilagavijayan/Data_Analysis_Projects/blob/main/udemy_py.ipynb)
+ - [Weather Exploration](https://github.com/Thilagavijayan/Data_Analysis_Projects/blob/main/Weather.ipynb)
 ## UDEMY EXPLORATION
 Udemy Courses Dataset is analyzed in a very Easy To Understand (ETU) language.
 ### Udemy Dataset
