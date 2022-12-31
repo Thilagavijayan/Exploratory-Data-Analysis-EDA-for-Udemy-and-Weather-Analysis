@@ -1,5 +1,8 @@
 # Data-Analysis-with-python
 This is a project which helps to works on real Data using Python.
+##Projects
+ - [Udemy Exploration](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Weather Exploration](https://github.com/matiassingers/awesome-readme)
 ## UDEMY EXPLORATION
 Udemy Courses Dataset is analyzed in a very Easy To Understand (ETU) language.
 ### Udemy Dataset
