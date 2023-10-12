@@ -1,4 +1,4 @@
-# Data-Analysis-with-python
+# Exploratory Data Analysis (EDA) for Udemy and Weather Analysis
 This is a project which helps to works on real Data using Python.
 ##Projects
  - [Udemy Exploration](https://github.com/Thilagavijayan/Data_Analysis_Projects/blob/main/udemy_py.ipynb)
